@@ -1,0 +1,13 @@
+Farpatch-Lite-backups/
+fp-info-cache
+_autosave*
+\#auto_saved_files\#
+*bak
+*.xml
+.ipynb_checkpoints
+*-erc.txt
+*-drc.txt
+kibot_errors.filter
+/Farpatch.csv
+/Farpatch.bak
+/Farpatch_bom_.csv
