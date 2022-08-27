@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.152
         }
       },
       "diff_pair_dimensions": [
@@ -56,19 +56,9 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|86635000|105100000|db7f44cb-ddbb-47a0-8ca2-6f445c2dcceb|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|86650000|104625000|7f12cbea-6a9a-46fe-a3ec-2b65940fa7d4|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|86650000|104850000|7f12cbea-6a9a-46fe-a3ec-2b65940fa7d4|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|86650000|104875000|db7f44cb-ddbb-47a0-8ca2-6f445c2dcceb|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|86650000|105100000|db7f44cb-ddbb-47a0-8ca2-6f445c2dcceb|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|88300000|104875000|d62d5752-692e-43f3-8714-f83788269e6c|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|88300000|105100000|d62d5752-692e-43f3-8714-f83788269e6c|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|88492800|104875000|84b57b01-cdd1-4898-8b66-a1bed65d750d|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|88492800|105100000|84b57b01-cdd1-4898-8b66-a1bed65d750d|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|88500000|105100000|e6b46b7c-a052-4acc-b073-5138bfecc31f|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|88725000|104875000|e6b46b7c-a052-4acc-b073-5138bfecc31f|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "clearance|89200000|104875000|7bf598bc-ecc6-406e-8ba7-c484e9327e6a|4bcfffbd-a1eb-45a3-897e-186698e02ebb",
-        "courtyards_overlap|82370001|105360001|ae4e55c2-f734-4ffc-8ff3-4f59a08706c5|7b485fa8-406a-42d5-9a01-13ae76ec07b5"
+        "clearance|86820000|104655000|8648adb4-8bd7-4726-b72b-5eac6305bb32|5dc6bb2c-d32f-47fc-9055-ed9505a42f71",
+        "clearance|86820000|104655000|a3ba22f4-abd6-447b-9c3c-b21ba248abfd|5dc6bb2c-d32f-47fc-9055-ed9505a42f71",
+        "clearance|88470000|104905000|43f5c452-fcbf-4c2d-bddb-e172627530fb|5dc6bb2c-d32f-47fc-9055-ed9505a42f71"
       ],
       "meta": {
         "version": 2
@@ -437,7 +427,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "Farpatch-Lite-EVT1",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -445,7 +435,7 @@
   },
   "sheets": [
     [
-      "2eb6cda3-e868-4058-b16b-fe6376f40e1e",
+      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
     ]
   ],

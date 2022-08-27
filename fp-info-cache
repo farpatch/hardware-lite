@@ -1,4 +1,4 @@
-20407972493138863
+20419577723985575
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52136,6 +52136,13 @@ Farpatch-Lite
 15
 2
 Farpatch-Lite
+Crystal_SMD_2016-4Pin_2.0x1.6mm
+SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+Farpatch-Lite
 ESP32-QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias
 QFN, 48 Pin (https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf#page=38), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -52143,12 +52150,26 @@ QFN NoLead
 75
 49
 Farpatch-Lite
+Farpatch Logo
+Farpatch Logo Silkscreen
+farpatch logo
+0
+0
+0
+Farpatch-Lite
 LED_0402_1005Metric
 LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED
 0
 2
 2
+Farpatch-Lite
+Molex_PicoBlade_53047-0410_1x04_P1.25mm_Vertical
+Molex PicoBlade Connector System, 53047-0410, 4 Pins per row (http://www.molex.com/pdm_docs/sd/530470610_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade side entry
+0
+4
+4
 Farpatch-Lite
 PinHeader_2x03_P2.54mm_Vertical
 Through hole straight pin header, 2x03, 2.54mm pitch, double rows
@@ -52185,12 +52206,26 @@ Pushbutton-3.0x2.0mm
 2
 2
 Farpatch-Lite
+QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm_ThermalVias
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+98
+57
+Farpatch-Lite
 SOIC-8_5.23x5.23mm_P1.27mm
 SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOIC SO
 0
 8
 8
+Farpatch-Lite
+SW_SPST_PTS810
+C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
+SPST Button Switch
+0
+4
+4
 Farpatch-Lite
 Texas_SWRA117D_2.4GHz_Left
 http://www.ti.com/lit/an/swra117d/swra117d.pdf
@@ -52205,6 +52240,20 @@ PCB antenna
 0
 2
 2
+Farpatch-Lite
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+Farpatch-Lite
+WSON-8_8x6mm_P1.27mm
+WSON, 8 Pin (https://www.gigadevice.com/datasheet/gd25q256d/)
+WSON NoLead
+0
+9
+9
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
